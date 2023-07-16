@@ -1,0 +1,4 @@
+root: C:\Users\crami\Downloads\AD8232_Heart_Rate_Monitor-master\AD8232_Heart_Rate_Monitor-master 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
